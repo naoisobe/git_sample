@@ -1,7 +1,6 @@
 puts "hello"
 puts 3 + 4
 puts "hello"
-puts "こんにちは私は地球人です"
 
 puts <<~TEXT
 こんにちは
