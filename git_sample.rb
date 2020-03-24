@@ -1,5 +1,6 @@
 puts "hello"
 puts 3 + 4
+puts "hello"
 
 puts <<~TEXT
 こんにちは
